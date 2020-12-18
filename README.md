@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ReactJS, TS, ES6+, GraphQL, Apollo, Flutter, React Native, JEST.
-- 🌱 I’m currently learning container orchestration(Kubernetes & Docker).
+- 🌱 I’m currently learning 🐍(Python).
 - 📫 How to reach me: 📧 sonugupta34@gmail.com | https://www.linkedin.com/in/sauzy34/
 
 <!--
