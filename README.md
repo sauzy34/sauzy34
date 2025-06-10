@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working on ReactJS, NodeJS, GraphQL, Flutter, React Native.
-- 🌱 I’m currently learning Blockchain.
 - 📫 How to reach me: 📧 sonugupta34@gmail.com | https://www.linkedin.com/in/sauzy34/
 
 <!--
