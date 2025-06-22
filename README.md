@@ -3,7 +3,7 @@
 ### Author of open-source React Native library: [react-native-multi-selectbox](https://www.npmjs.com/package/react-native-multi-selectbox) 
 
 
-- 🔭 I’m currently working on ReactJS, NodeJS, GraphQL, Flutter, React Native.
+- 🔭 I’m currently working on ReactJS, NodeJS, GraphQL, React Native, TypeScript, Javascript, NextJS.
 - 📫 How to reach me: 📧 sonugupta34@gmail.com | https://www.linkedin.com/in/sauzy34/
 
 <!--
